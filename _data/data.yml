@@ -35,13 +35,13 @@ sidebar:
         level: Nativo
 
     interests:
-      - item: Climbing
+      - item: Viajar
         link:
 
-      - item: Snowboarding
+      - item: Leer
         link:
 
-      - item: Cooking
+      - item: Cocinar
         link:
 
 career-profile:
@@ -82,45 +82,33 @@ projects:
     intro: >
       Estos son algunos de los proyectos que he desarrollado como parte de mi formación académica.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    
+      - title: Football Championship
+        link: "https://github.com/JocoolQ/FootballChampionship"
+        tagline: "Aplicación sencilla elaborada con python Flask para representar un torneo de fútbol. Permite registrar equipos, partidos y calcular la tabla de posiciones."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Ejemplo de arquitectura de microservicios en Docker
+        link: "https://github.com/JocoolQ/EjemploArquitectura"
+        tagline: "Ejemplo de Arquitectura de Microservicios usando Docker. El ejemplo cuenta con la integración de un API REST desarrollado con Django REST Framework, conexión a una base de datos en PostgreSQL y una vista implementada con Apache Server."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Aplicación para seleccion de atributos por medio de entropía
+        link: "https://github.com/JocoolQ/aplicacion-seleccion-atributos"
+        tagline: "Software para la implementación del proceso de selección de atributos en Minería de datos, mediante el algoritmo de selección de características basado en la entropía."
 
 publications:
     title: Artículos
     intro: |
       Estos son algunos de lo artículos que he publicado como parte de mi formación académica.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Análisis temático de principios de automatización en el desarrollo de cultivos hidropónicos"
+        link: "https://revistas.udistrital.edu.co/index.php/bsa/article/view/12862"
+        authors: Capera Quintana, J. S., Sierra Forero, B. L. & Ávila Blenkey, T. D. 
+        conference: Vol. 11 Núm. 2 (2017): Boletín Semillas Ambientales
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Environment humidity and temperature prediction in agriculture using Mamdani inference systems"
+        link: "doi.org/10.11591/ijece.v11i4.pp3502-3509"
+        authors: Barón Velandia, J., Capera Quintana, J. S. & Vanegas Ayala, S. C.
+        conference: Vol. 11 Núm. 4 (2021): International Journal of Electrical and Computer Engineering
 
 skills:
     title: Tecnologías y lenguajes
